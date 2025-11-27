@@ -13,14 +13,14 @@ export const AUTHORS: Author[] = [
     name: "Jahid Hussain Bhati",
     role: "Paris Editor",
     bio: "A keen observer of European elegance and haute couture's most intimate moments. Camille's dispatches from the front row examine the intersection of heritage craftsmanship and contemporary vision.",
-    avatar: "./assets/editor.jpg",
+    avatar: "./editor.jpg",
   },
   {
     id: "a2",
     name: "Surendra Bishnoi",
     role: "Global Fashion Correspondent",
     bio: "From Mumbai's textile markets to the world's grandest runways, Aarav documents how Indian design codes are reshaping the global luxury narrative. A voice for new global aesthetics.",
-    avatar: "./assets/surendra.jpg",
+    avatar: "./surendra.jpg",
   },
   {
     id: "a3",
@@ -35,7 +35,7 @@ export const AUTHORS: Author[] = [
     name: "Harsh Prajapat",
     role: "Visionary & Futurist",
     bio: "Japan's most influential fashion theorist exploring how technology, art, and humanism converge on the runway. Hiroshi doesn't cover fashion—he decodes it.",
-    avatar: "./assets/harsh.jpg",
+    avatar: "./harsh.jpg",
   },
   {
     id: "a5",
